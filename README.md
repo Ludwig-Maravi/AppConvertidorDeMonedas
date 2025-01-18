@@ -39,7 +39,17 @@ El objetivo de la **App Convertidor de Monedas** es ofrecer una herramienta acce
 
 ![IMG04](https://github.com/user-attachments/assets/9105e868-44a5-444f-8722-13b6ed67c05c)
 
-6. **¡Listo!** Se mostrará el nuevo valor equivalente a la moneda seleccionada.
+6. **Seleccionar la Opcion de Mostrar historial de conversiones**: Podremos ver el historial de cnversiones realizadas.
+
+![IMG05](https://github.com/user-attachments/assets/f8a645f1-9993-4200-8981-20f6399f72c6)
+
+7. **Validaciones**: Al seleccionar una opcion validamos el dato ingreso por el usuario.
+
+![IMG06](https://github.com/user-attachments/assets/9fd21f50-6824-4a01-bf01-9d9e0b38d271)
+
+![IMG07](https://github.com/user-attachments/assets/f4bae866-80f9-4400-9d47-74db62e9798d)
+
+7. **¡Listo!** Se mostrará el nuevo valor equivalente a la moneda seleccionada.
 
 ## 📋 Requisitos
 
